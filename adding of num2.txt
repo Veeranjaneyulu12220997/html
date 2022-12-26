@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Javascript Variables</h1>
+<p>the result of adding names:</p>
+<p id="abc"></p>
+<script>
+var x=8+4+"5";
+document.getElementById("abc").innerHTML=x;
+</script>
+</body>
+</html>
