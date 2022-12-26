@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function abc()
+{
+   var anji=confirm("Do you want to continue?");
+       if(anji==true){
+ 		document.write("User wants to continue!");
+		return true;
+  	}
+	else{
+		document.write("User does not wants to continue!");
+		return false;
+}
+</script>
+</head>
+<body>
+<input type="submit"onclick="abc()">
+</body>
+</html>
