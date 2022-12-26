@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p id="abc"></p>
+<script>
+var names=["rohit","rahul",abd"];
+document.getElementById("abc").innerHTML=names[0];
+</script>
+</body>
+</html>
