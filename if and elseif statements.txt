@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p id="abc"></p>
+<script>
+var marks=prompt("enter marks")
+if(marks<=10){
+	document.write("Fail")
+}
+else if(marks>10&&marks<=20){
+	document.write("pass with average")
+}
+else if(marks>20 && marks<=30){
+	document.write(passs with A)
+{
+else{
+	document,write("Invalid input")
+{
+document.getElementById("abc").innerHTML=var marks
+</script>
+</body>
+</html>
